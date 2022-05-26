@@ -1,2 +1,2 @@
 # Software-Engineering-SoftUni
-|SoftUni| Course exercises | Mincho Valov
+| SoftUni | Course exercises | Mincho Valov
