@@ -17,6 +17,7 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022" > Programming Basics with C# </a>        
+| <a href="https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022" > Programming Basics with C# </a>    
+| <a href="https://softuni.bg/certificates/details/124198/1617d361"> Link</a> |
 
 </td>
